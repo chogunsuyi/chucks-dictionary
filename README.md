@@ -1,2 +1,2 @@
 # chucks-dictionary
-[Live site](chogunsuyi.github.io/chucks-dictionary)
+[Live site](https://chogunsuyi.github.io/chucks-dictionary)
